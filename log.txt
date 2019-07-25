@@ -153,4 +153,4 @@ After epoch 100 Validation; Accuracy is 89.007% and loss is 0.937
 
 Done in 2009.56108 Secs
 Saved at ./ERmodel/trained//Model
-Done in 2009.95084 Secs
+Done in 2009.9503 Secs
