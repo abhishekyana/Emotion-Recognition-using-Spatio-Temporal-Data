@@ -1,0 +1,156 @@
+After epoch   0 Training;   Accuracy is 15.114% and loss is 2.090
+After epoch   0 Validation; Accuracy is 15.234% and loss is 2.091
+
+After epoch   2 Training;   Accuracy is 48.864% and loss is 1.348
+After epoch   2 Validation; Accuracy is 54.967% and loss is 1.207
+
+After epoch   4 Training;   Accuracy is 71.733% and loss is 0.769
+After epoch   4 Validation; Accuracy is 68.750% and loss is 0.879
+
+After epoch   6 Training;   Accuracy is 81.605% and loss is 0.507
+After epoch   6 Validation; Accuracy is 76.674% and loss is 0.682
+
+After epoch   8 Training;   Accuracy is 88.793% and loss is 0.325
+After epoch   8 Validation; Accuracy is 81.250% and loss is 0.645
+
+After epoch  10 Training;   Accuracy is 92.202% and loss is 0.233
+After epoch  10 Validation; Accuracy is 82.478% and loss is 0.647
+
+After epoch  12 Training;   Accuracy is 94.290% and loss is 0.174
+After epoch  12 Validation; Accuracy is 80.413% and loss is 0.786
+
+After epoch  14 Training;   Accuracy is 94.744% and loss is 0.145
+After epoch  14 Validation; Accuracy is 84.040% and loss is 0.655
+
+After epoch  16 Training;   Accuracy is 97.116% and loss is 0.084
+After epoch  16 Validation; Accuracy is 86.775% and loss is 0.579
+
+After epoch  18 Training;   Accuracy is 98.168% and loss is 0.053
+After epoch  18 Validation; Accuracy is 85.435% and loss is 0.676
+
+After epoch  20 Training;   Accuracy is 98.139% and loss is 0.054
+After epoch  20 Validation; Accuracy is 88.058% and loss is 0.640
+
+After epoch  22 Training;   Accuracy is 98.736% and loss is 0.036
+After epoch  22 Validation; Accuracy is 86.217% and loss is 0.712
+
+After epoch  24 Training;   Accuracy is 96.974% and loss is 0.093
+After epoch  24 Validation; Accuracy is 85.882% and loss is 0.698
+
+After epoch  26 Training;   Accuracy is 98.352% and loss is 0.050
+After epoch  26 Validation; Accuracy is 88.170% and loss is 0.654
+
+After epoch  28 Training;   Accuracy is 99.162% and loss is 0.023
+After epoch  28 Validation; Accuracy is 87.165% and loss is 0.731
+
+After epoch  30 Training;   Accuracy is 99.176% and loss is 0.025
+After epoch  30 Validation; Accuracy is 85.993% and loss is 0.834
+
+After epoch  32 Training;   Accuracy is 98.324% and loss is 0.050
+After epoch  32 Validation; Accuracy is 85.045% and loss is 0.918
+
+After epoch  34 Training;   Accuracy is 98.551% and loss is 0.039
+After epoch  34 Validation; Accuracy is 85.100% and loss is 0.863
+
+After epoch  36 Training;   Accuracy is 98.963% and loss is 0.031
+After epoch  36 Validation; Accuracy is 88.002% and loss is 0.736
+
+After epoch  38 Training;   Accuracy is 99.489% and loss is 0.017
+After epoch  38 Validation; Accuracy is 86.663% and loss is 0.929
+
+After epoch  40 Training;   Accuracy is 98.849% and loss is 0.036
+After epoch  40 Validation; Accuracy is 85.045% and loss is 0.833
+
+After epoch  42 Training;   Accuracy is 99.261% and loss is 0.024
+After epoch  42 Validation; Accuracy is 86.272% and loss is 0.838
+
+After epoch  44 Training;   Accuracy is 98.736% and loss is 0.042
+After epoch  44 Validation; Accuracy is 87.444% and loss is 0.727
+
+After epoch  46 Training;   Accuracy is 98.693% and loss is 0.036
+After epoch  46 Validation; Accuracy is 86.328% and loss is 0.938
+
+After epoch  48 Training;   Accuracy is 99.190% and loss is 0.025
+After epoch  48 Validation; Accuracy is 86.551% and loss is 0.903
+
+After epoch  50 Training;   Accuracy is 98.949% and loss is 0.034
+After epoch  50 Validation; Accuracy is 86.161% and loss is 0.785
+
+After epoch  52 Training;   Accuracy is 99.602% and loss is 0.012
+After epoch  52 Validation; Accuracy is 87.444% and loss is 0.923
+
+After epoch  54 Training;   Accuracy is 98.537% and loss is 0.051
+After epoch  54 Validation; Accuracy is 85.882% and loss is 0.870
+
+After epoch  56 Training;   Accuracy is 98.977% and loss is 0.037
+After epoch  56 Validation; Accuracy is 86.161% and loss is 0.855
+
+After epoch  58 Training;   Accuracy is 99.645% and loss is 0.011
+After epoch  58 Validation; Accuracy is 87.500% and loss is 0.929
+
+After epoch  60 Training;   Accuracy is 99.943% and loss is 0.003
+After epoch  60 Validation; Accuracy is 88.783% and loss is 0.813
+
+After epoch  62 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  62 Validation; Accuracy is 88.504% and loss is 0.824
+
+After epoch  64 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  64 Validation; Accuracy is 88.728% and loss is 0.833
+
+After epoch  66 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  66 Validation; Accuracy is 88.839% and loss is 0.818
+
+After epoch  68 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  68 Validation; Accuracy is 88.895% and loss is 0.816
+
+After epoch  70 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  70 Validation; Accuracy is 88.839% and loss is 0.843
+
+After epoch  72 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  72 Validation; Accuracy is 88.839% and loss is 0.834
+
+After epoch  74 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  74 Validation; Accuracy is 88.728% and loss is 0.857
+
+After epoch  76 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  76 Validation; Accuracy is 88.616% and loss is 0.874
+
+After epoch  78 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  78 Validation; Accuracy is 89.007% and loss is 0.862
+
+After epoch  80 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  80 Validation; Accuracy is 89.118% and loss is 0.874
+
+After epoch  82 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  82 Validation; Accuracy is 89.062% and loss is 0.884
+
+After epoch  84 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  84 Validation; Accuracy is 89.174% and loss is 0.865
+
+After epoch  86 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  86 Validation; Accuracy is 89.118% and loss is 0.873
+
+After epoch  88 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  88 Validation; Accuracy is 88.895% and loss is 0.894
+
+After epoch  90 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  90 Validation; Accuracy is 88.783% and loss is 0.913
+
+After epoch  92 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  92 Validation; Accuracy is 89.007% and loss is 0.900
+
+After epoch  94 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  94 Validation; Accuracy is 89.174% and loss is 0.899
+
+After epoch  96 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  96 Validation; Accuracy is 89.118% and loss is 0.907
+
+After epoch  98 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch  98 Validation; Accuracy is 89.062% and loss is 0.912
+
+After epoch 100 Training;   Accuracy is 100.000% and loss is 0.000
+After epoch 100 Validation; Accuracy is 89.007% and loss is 0.937
+
+Done in 2009.56108 Secs
+Saved at ./ERmodel/trained//Model
+Done in 2009.95084 Secs
