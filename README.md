@@ -7,6 +7,6 @@ Emotion Recognition using Spatio-Temporal Data, applied on REVDESS Dataset, to p
 * For Spatial data: 
   * Video feed of 30 frames per second: We have 30 images per second. 
   * Uniformly sampled 5 images per second at regular intervals.
-  ![Images](./supportfiles/images.jpg)
+  ![Images](./images/ERimage.png)
   * Each image has a lot of white and unused space. So, as we need only the facial features of the person, I've applied Face Recognition to get the localised coordinated of the face and cropped the image.
   * All the five images are aligned horizontally to make a strip of images.
