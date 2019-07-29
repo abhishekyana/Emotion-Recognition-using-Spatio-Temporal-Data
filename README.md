@@ -11,5 +11,5 @@ Emotion Recognition using Spatio-Temporal Data, applied on REVDESS Dataset, to p
   * So, Each image has a lot of white and unused space. So, as we need only the facial features of the person, I've applied Face Recognition to get the localised coordinated of the face and cropped the image to have only the face.<br/>
   ![Image2](./images/ERface.png)
   * Now, To ge the sequential richness of the video in a single image, all the five images are stitched horizontally in order to make a strip of images.<br/>
-  ![Image3](./images/ERoriface.png)
-  ![Image3](./images/ERoriface1.png)
+  ![Image3](./images/ERhoriface.png)
+  ![Image3](./images/ERhoriface1.png)
