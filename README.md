@@ -25,6 +25,6 @@ Emotion Recognition using Spatio-Temporal Data, applied on REVDESS Dataset, to p
  * The model is trained on 80% of the randomly shuffled data and velidated on the remaining 20% 
  This model converged and performed pretty well on the Validation dataset also.
  
- Thank you for Reading.. 
- Best,
+ Thank you for Reading..<br/>
+ Best,<br/>
  Abhishek
