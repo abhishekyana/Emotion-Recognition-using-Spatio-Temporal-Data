@@ -22,7 +22,7 @@ Emotion Recognition using Spatio-Temporal Data, applied on RAVDESS Dataset, to p
  
  ## Actual Model:
  ![IMAGE](./images/modelA.jpg)
- * The latent space vector from the images through CNNs (200 dims) is obtained from the model1 and the latent spcae vector from the LSTMs (200 dims) is obtained from the model2. These two vectors are concatenated to get a 400dims vector, and that concatenated vector is given to a fully connected layer to predict the emotion class(C=8).
+ * The latent space vector from the images through CNNs (200 dims) is obtained from the model1 and the latent space vector from the LSTMs (200 dims) is obtained from the model2. These two vectors are concatenated to get a 400dims vector, and that concatenated vector is given to a fully connected layer to predict the emotion class(C=8).
  * The model is trained on 80% of the randomly shuffled data and velidated on the remaining 20% 
  This model converged and performed pretty well on the Validation dataset also.
  
