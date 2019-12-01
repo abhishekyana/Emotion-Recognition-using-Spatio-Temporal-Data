@@ -10,8 +10,6 @@ from utils import *
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-
-
 def ERmodel(INimg=[50,250,3], sr=16000, nH=[200,200,200], nO=8):
 	h,w,c = INimg
 	tf.reset_default_graph()
