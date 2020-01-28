@@ -3,7 +3,7 @@ scipy==1.2.1
 imageio==2.5.0
 tqdm==4.31.1
 librosa==0.6.3
-tensorflow_gpu==1.13.1
+tensorflow_gpu==1.15.2
 numpy==1.16.2
 ipython==7.6.1
 face_recognition==1.2.3
