@@ -7,4 +7,4 @@ tensorflow_gpu==1.13.1
 numpy==1.16.2
 ipython==7.6.1
 face_recognition==1.2.3
-tensorflow==1.14.0
+tensorflow==2.5.3
